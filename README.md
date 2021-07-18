@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xhayankhan
-- 👀 I’m interested in android and ios development
+- 👀 I’m interested in android, ios development, AI, Machine Learning 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on AI, Machine Learning or Flutter projects
 - 📫 How to reach me ? shayaniqbal515@gmail.com
